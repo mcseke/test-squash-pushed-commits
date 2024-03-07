@@ -1,3 +1,4 @@
 # test-squash-pushed-commits
-1
 2
+3
+4
